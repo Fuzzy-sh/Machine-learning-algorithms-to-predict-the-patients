@@ -1,5 +1,9 @@
 
 
+<a href="https://www.linkedin.com/in/fuzzy-shahidi"><img src="https://img.shields.io/badge/Linkdin-Fuzzy%20Shahidi-blue.svg" alt="DOI"></a>
+
+
+
 
 # Title:Machine-learning-algorithms-to-predict-the-patients
 python codes to predict patients’ non-attendance for their appointments at the clinic
